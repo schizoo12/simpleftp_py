@@ -1,6 +1,5 @@
 # simpleftp_py
-# ftp
-#p ftppy
+
 pip install pyftpdlib
 
 Simple python ftp script with configuration (config.json)
