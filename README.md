@@ -1,8 +1,8 @@
 # simpleftp_py
 
-pip install pyftpdlib
+# pip install pyftpdlib
 
-Simple python ftp script with configuration (config.json)
+## Simple python ftp script with configuration (config.json)
 
 EN 🔐 FTP Permissions in pyftpdlib
 Letter	Name	Allows the user to...
